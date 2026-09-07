@@ -37,6 +37,7 @@ https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u
 https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u
 https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u
 https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
+https://live.445569.xyz/live.m3u
 
 # ----------------- 5. 国际与公共频道 (全球精选 / 华语公共广播) ------------------
 https://iptv-org.github.io/iptv/countries/cn.m3u
