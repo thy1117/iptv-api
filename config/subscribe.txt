@@ -2,14 +2,16 @@
 # IPTV-API 订阅源链接池 (自动维护与测速)
 # 支持格式：每行一个 URL，可携带 UA="xxx"
 # ==============================================================================
-
 # ----------------- 1. IPv6 高清专区 (首选，极速不卡顿、画质最高) -----------------
+# ----------------- 2. 综合全量聚合源 (央视 / 卫视 / 地方台 / 4K) -----------------
+# ----------------- 3. 运营商单播与特色源 (联通 / 移动 / 咪咕) --------------------
+# ----------------- 4. 网络轮播与游戏直播 (B站 / 虎牙 / 斗鱼 / YY) ----------------
+# ----------------- 5. 国际与公共频道 (全球精选 / 华语公共广播) ------------------
+# ----------------- 6. 专门体育与赛事专区 (央视体育 / 咪咕 / 五星 / 纬来 / 海外赛事) -----
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-
-# ----------------- 2. 综合全量聚合源 (央视 / 卫视 / 地方台 / 4K) -----------------
 https://raw.githubusercontent.com/CCSH/IPTV/main/live.m3u
 https://raw.githubusercontent.com/CCSH/IPTV/main/live_lite.m3u
 https://raw.githubusercontent.com/CCSH/IPTV/main/live_platforms.m3u
@@ -27,32 +29,22 @@ https://taoiptv.com/lives/51025.m3u?token=b96ed410cc1c8b05
 https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u
 https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
-
-# ----------------- 3. 运营商单播与特色源 (联通 / 移动 / 咪咕) --------------------
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Migu.m3u
-https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-
-# ----------------- 4. 网络轮播与游戏直播 (B站 / 虎牙 / 斗鱼 / YY) ----------------
 https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u
 https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u
 https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u
 https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
 https://live.445569.xyz/live.m3u
-
-# ----------------- 5. 国际与公共频道 (全球精选 / 华语公共广播) ------------------
 https://iptv-org.github.io/iptv/countries/cn.m3u
 https://iptv-org.github.io/iptv/languages/zho.m3u
 https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
-
-
-
-# ----------------- 6. 专门体育与赛事专区 (央视体育 / 咪咕 / 五星 / 纬来 / 海外赛事) -----
 https://raw.githubusercontent.com/alexyanghx/TV/master/output/result.m3u
 https://raw.githubusercontent.com/fgwxh/iptv-api/master/output/result.m3u
 https://iptv-org.github.io/iptv/categories/sports.m3u
 
+# https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
 [WHITELIST]
 # 以下为白名单源（不参与测速，始终保留至结果最前）
