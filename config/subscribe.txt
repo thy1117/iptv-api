@@ -2,35 +2,31 @@
 # IPTV-API 订阅源链接池 (自动维护与测速)
 # 支持格式：每行一个 URL，可携带 UA="xxx"
 # ==============================================================================
-
 # ----------------- 1. IPv6 高清专区 (首选，极速不卡顿、画质最高) -----------------
+# ----------------- 2. 综合全量聚合源 (央视 / 卫视 / 地方台 / 4K) -----------------
+# ----------------- 3. 运营商单播与特色源 (联通 / 移动 / 咪咕) --------------------
+# ----------------- 4. 国际与公共频道 (全球精选 / 华语公共广播) ------------------
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-
-# ----------------- 2. 综合全量聚合源 (央视 / 卫视 / 地方台 / 4K) -----------------
 https://raw.githubusercontent.com/CCSH/IPTV/main/live.m3u
 https://raw.githubusercontent.com/CCSH/IPTV/main/live_lite.m3u
-https://raw.githubusercontent.com/CCSH/IPTV/main/live_platforms.m3u
 https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8
 https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_cctv.m3u8
 https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_province.m3u8
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV2_GuoNei.m3u8
 https://raw.githubusercontent.com/akiralereal/iptv/main/IPTV.m3u
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
-
-# ----------------- 3. 运营商单播与特色源 (联通 / 移动 / 咪咕) --------------------
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Migu.m3u
-
-# ----------------- 4. 国际与公共频道 (全球精选 / 华语公共广播) ------------------
 https://iptv-org.github.io/iptv/countries/cn.m3u
 https://iptv-org.github.io/iptv/languages/zho.m3u
 
+# https://raw.githubusercontent.com/CCSH/IPTV/main/live_platforms.m3u
+# https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+# https://raw.githubusercontent.com/YanG-1989/m3u/main/Migu.m3u
 
 [WHITELIST]
 # 以下为白名单源（不参与测速，始终保留至结果最前，支持添加自建稳定源）
