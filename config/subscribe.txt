@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV2_GuoNei.m3u8
 https://raw.githubusercontent.com/akiralereal/iptv/main/IPTV.m3u
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u
 https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u
 https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
