@@ -47,5 +47,12 @@ https://iptv-org.github.io/iptv/languages/zho.m3u
 https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 
 
+
+# ----------------- 6. 专门体育与赛事专区 (央视体育 / 咪咕 / 五星 / 纬来 / 海外赛事) -----
+https://raw.githubusercontent.com/alexyanghx/TV/master/output/result.m3u
+https://raw.githubusercontent.com/fgwxh/iptv-api/master/output/result.m3u
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+
 [WHITELIST]
 # 以下为白名单源（不参与测速，始终保留至结果最前）
