@@ -8,6 +8,7 @@
 # ----------------- 4. 网络轮播与游戏直播 (B站 / 虎牙 / 斗鱼 / YY) ----------------
 # ----------------- 5. 国际与公共频道 (全球精选 / 华语公共广播) ------------------
 # ----------------- 6. 专门体育与赛事专区 (央视体育 / 咪咕 / 五星 / 纬来 / 海外赛事) -----
+# https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u
@@ -36,7 +37,6 @@ https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u
 https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u
 https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u
 https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
-https://live.445569.xyz/live.m3u
 https://iptv-org.github.io/iptv/countries/cn.m3u
 https://iptv-org.github.io/iptv/languages/zho.m3u
 https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/alexyanghx/TV/master/output/result.m3u
 https://raw.githubusercontent.com/fgwxh/iptv-api/master/output/result.m3u
 https://iptv-org.github.io/iptv/categories/sports.m3u
 
-# https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+# https://live.445569.xyz/live.m3u
 
 [WHITELIST]
 # 以下为白名单源（不参与测速，始终保留至结果最前）
