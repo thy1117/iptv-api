@@ -10,6 +10,7 @@
 # ----------------- 6. 专门体育与赛事专区 (央视体育 / 咪咕 / 五星 / 纬来 / 海外赛事) -----
 # https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 # https://live.445569.xyz/live.m3u
+# https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u
@@ -24,7 +25,6 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV2_GuoNei.m3u8
 https://raw.githubusercontent.com/akiralereal/iptv/main/IPTV.m3u
-https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://taoiptv.com/lives/51025.m3u?token=b96ed410cc1c8b05
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/alexyanghx/TV/master/output/result.m3u
 https://raw.githubusercontent.com/fgwxh/iptv-api/master/output/result.m3u
 https://iptv-org.github.io/iptv/categories/sports.m3u
 
-# https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
+# https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 
 [WHITELIST]
 # 以下为白名单源（不参与测速，始终保留至结果最前）
